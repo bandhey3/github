@@ -1,0 +1,8 @@
+git inti - initialize files/folders
+git add . - all files/folders add in git
+git status - check how many files/folders are added in git
+git commit -m "message inside" - message commit
+git restore --staged {file_name/folder_name} - uncommit the file
+git log - how many commits on there
+git diff {log_id} - check your commit files/folders what have you changed in the log_id.
+git reset --lohard {log_id} - remove the history commits with log_id
